@@ -1,6 +1,6 @@
 # Sieuus'sModpack
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+**Sieuus'sModpack** é uma série de modpacks que esta na versão 0.2.1 e no minecraft 1.7.10 contem 200+ mods e foi criado por [Sieuus](https://www.youtube.com/c/sieuus/) Para a série de mesmo nome [Sieuus'sModPack](https://www.youtube.com/playlist?list=PL3gCDJqzpJknszatobe5YKEVKur28tMgX).
 
 ## Notable features:
 
