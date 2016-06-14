@@ -1,6 +1,6 @@
 ![SieuussModpack](https://github.com/Sieuus/files/blob/master/loguis.png)
 
-**Sieuus'sModpack** é uma série de modpacks que esta na versão 0.2.1 e no minecraft 1.7.10 contem 200+ mods e foi criado por [Sieuus](https://www.youtube.com/c/sieuus/) Para a série de mesmo nome [Sieuus'sModPack](https://www.youtube.com/playlist?list=PL3gCDJqzpJknszatobe5YKEVKur28tMgX).
+##**Sieuus'sModpack** é uma série de modpacks que esta na versão 0.2.1 e no minecraft 1.7.10 contem 200+ mods e foi criado por [Sieuus](https://www.youtube.com/c/sieuus/) Para a série de mesmo nome [Sieuus'sModPack](https://www.youtube.com/playlist?list=PL3gCDJqzpJknszatobe5YKEVKur28tMgX).
 
 
 ## Downloads disponiveis em:
