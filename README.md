@@ -10,7 +10,7 @@
 * Drive.google.com: [Clique Aqui](https://drive.google.com/uc?export=download&id=0BwtlbR5-pP_NbEd3STdhSTVvTkE)
 
 
-##[Politica de uso](https://gist.githubusercontent.com/Sieuus/64fa38dc440e6cb2139182cc22b00aea/raw/421c9d0adc5bca5c7260c5d0dd65bd12f1085b56/politica-de-uso) Para uso em vídeos e séries etc.
+##[Politica de uso](https://raw.githubusercontent.com/Sieuus/Sieuus-sModpack/master/LICENSE) Para uso em vídeos e séries etc.
 
 ##Se divirta.
 
