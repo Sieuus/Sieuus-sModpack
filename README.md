@@ -14,7 +14,7 @@
 
 ##Se divirta.
 ## Downloads do mapa em:
-* Dropbox.com: Ep26      [Clique Aqui](https://db.tt/Msx1vb1D)
+* Dropbox.com: Ep26      [Clique Aqui](https://www.dropbox.com/sh/63punamuil4w362/AABuogVnsoFt1DOzxcet3aija?dl=0)
 
 
 ![SieuussModpack](https://raw.githubusercontent.com/Sieuus/files/master/2016-03-16_02.46.38.png)
